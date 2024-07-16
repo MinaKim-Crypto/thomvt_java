@@ -8,4 +8,8 @@ public class Student {
     String name;
     String grade;
     Integer old;
+
+    public static void main(String[] args) {
+        System.out.println("Student Thomvt");
+    }
 }
